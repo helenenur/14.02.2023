@@ -22,7 +22,7 @@ let joldosh = {
 
   //View, edit, add4
   console.log(severa.firstname);
-  severa.firstname = "hi";
+  severa.firstname = "Heli";
   console.log(severa.firstname);
 
 
@@ -31,5 +31,7 @@ let joldosh = {
 
   // delete 
   delete severa.favouriteBooks;
+
+  
 
 
